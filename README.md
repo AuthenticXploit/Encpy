@@ -6,7 +6,7 @@ encrypt python script
 ```
 $ apt install python2
 $ apt install git
-$ git clone https://github.com/AuthenticXploit/BruteFB-Massal
+$ git clone https://github.com/AuthenticXploit/Encpy
 $ cd Encpy
 $ python2 enc.py
 ```
