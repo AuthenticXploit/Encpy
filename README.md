@@ -1,7 +1,7 @@
 
 # Encpy
 encrypt python script
-<img src="https://github.com/AuthenticXploit/Encpy/blob/main/img/IMG_20210623_081901.jpg">
+<img src="https://github.com/AuthenticXploit/Encpy/blob/main/img/Screenshot_2021-07-09-21-12-20-337_com.termux-picsay.jpg">
 # Installations Termux
 ```
 $ apt install python2
