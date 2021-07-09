@@ -3,7 +3,7 @@
 """
 enc.py
 
-Created by AuthenticXploit on 23/06/2021.
+Created by AuthenticXploit on 09/07/2021.
 Copyright (c) 2021 Copyright Holder. All rights reserved.
 """
 
@@ -29,7 +29,7 @@ print """\033[91m
      \x1b[1;97m Author   \033[31;1m:  \033[32mAuthenticXploit
      \x1b[1;97m Type     \033[31;1m:  \033[32mEncrypt python
      \x1b[1;97m Version  \033[31;1m:  \033[32m0.1
-     \x1b[1;97m Contact  \033[31;1m:  \033[32mhttps://t.me/AuthenticXploit_bot
+     \x1b[1;97m Contact  \033[31;1m:  \033[32mhttps://t.me/AuthenticXploit
      \x1b[1;97m
  \033[31;1m[\033[37;1m01\033[31;1m]\033[1;93m Encrypt Base16
  \033[31;1m[\033[37;1m02\033[31;1m]\033[1;93m Encrypt Base32
